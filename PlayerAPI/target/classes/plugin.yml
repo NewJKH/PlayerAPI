@@ -1,0 +1,4 @@
+name: PlayerAPI
+version: '1.0-SNAPSHOT'
+main: org.nano.playerapi.PlayerAPI
+api-version: '1.20'

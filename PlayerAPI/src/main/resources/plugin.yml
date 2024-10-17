@@ -1,0 +1,4 @@
+name: PlayerAPI
+version: '${project.version}'
+main: org.nano.playerapi.PlayerAPI
+api-version: '1.20'
